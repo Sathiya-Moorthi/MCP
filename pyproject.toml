@@ -32,9 +32,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/calculator-mcp"
-Repository = "https://github.com/yourusername/calculator-mcp"
-Issues = "https://github.com/yourusername/calculator-mcp/issues"
+Homepage = "https://github.com/Sathiya-Moorthi/MCP"
+Repository = "https://github.com/Sathiya-Moorthi/MCP"
+Issues = "https://github.com/Sathiya-Moorthi/MCP/issues"
 
 [build-system]
 requires = ["setuptools>=61.0"]

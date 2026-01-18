@@ -34,7 +34,7 @@ A simple calculator MCP (Model Context Protocol) server that exposes arithmetic 
 ### Install from source
 
 ```bash
-git clone https://github.com/yourusername/calculator-mcp.git
+git clone https://github.com/Sathiya-Moorthi/MCP.git
 cd calculator-mcp
 pip install -e .
 ```
@@ -96,7 +96,7 @@ The server communicates via stdio (standard input/output) using the MCP protocol
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/calculator-mcp.git
+git clone https://github.com/Sathiya-Moorthi/MCP.git
 cd calculator-mcp
 
 # Create virtual environment
